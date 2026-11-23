@@ -1,0 +1,122 @@
+[
+  {
+    "topic": "graphs",
+    "tip": "Draw a small graph, label each vertex, and trace a path one edge at a time."
+  },
+  {
+    "topic": "Python loops",
+    "tip": "Trace the loop with a table showing the counter and variable values after every iteration."
+  },
+  {
+    "topic": "fractions",
+    "tip": "Draw equal-sized parts, shade the required number, and simplify the fraction if possible."
+  },
+  {
+    "topic": "sets",
+    "tip": "Use a Venn diagram to place elements and identify the union and intersection."
+  },
+  {
+    "topic": "sorting",
+    "tip": "Sort five values by hand and write down each comparison or swap in sequence."
+  },
+  {
+    "topic": "probability",
+    "tip": "List all equally likely outcomes first, then count the outcomes that satisfy the event."
+  },
+  {
+    "topic": "functions",
+    "tip": "Write the input, process, and output of a function, then test it with one simple example."
+  },
+  {
+    "topic": "arrays",
+    "tip": "Index a short array on paper and trace how each operation changes its elements."
+  },
+  {
+    "topic": "linked lists",
+    "tip": "Draw each node and pointer, then update one link at a time when inserting or deleting."
+  },
+  {
+    "topic": "binary trees",
+    "tip": "Label the root and children, then practise preorder, inorder, and postorder traversals."
+  },
+  {
+    "topic": "recursion",
+    "tip": "Identify the base case first, then trace how each recursive call moves toward it."
+  },
+  {
+    "topic": "matrices",
+    "tip": "Mark the row and column dimensions before performing matrix addition or multiplication."
+  },
+  {
+    "topic": "binary search",
+    "tip": "Write the low, high, and middle indices at every step and discard the half that cannot contain the target."
+  },
+  {
+    "topic": "SQL joins",
+    "tip": "Draw the two tables and match their key columns before writing the JOIN query."
+  },
+  {
+    "topic": "normalization",
+    "tip": "Check each table for repeating groups and dependencies, then identify the candidate key."
+  },
+  {
+    "topic": "supervised learning",
+    "tip": "Separate features from the target label and compare predictions with known answers."
+  },
+  {
+    "topic": "overfitting",
+    "tip": "Compare training and validation performance; a large gap can indicate memorization."
+  },
+  {
+    "topic": "gradient descent",
+    "tip": "Track the loss after updates and remember that the learning rate controls each parameter step."
+  },
+  {
+    "topic": "neural networks",
+    "tip": "Draw the input, hidden, and output layers, then follow one example through the network."
+  },
+  {
+    "topic": "data preprocessing",
+    "tip": "Inspect missing values, duplicates, and feature scales before fitting a machine learning model."
+  },
+  {
+    "topic": "database keys",
+    "tip": "Identify which column uniquely identifies a row, then check how foreign keys connect tables."
+  },
+  {
+    "topic": "operating systems",
+    "tip": "Compare process and thread concepts using a small example and note what resources they share."
+  },
+  {
+    "topic": "computer networks",
+    "tip": "Trace a request from sender to receiver and write the role of each network layer."
+  },
+  {
+    "topic": "OOP inheritance",
+    "tip": "Create a parent class and a child class, then identify inherited attributes and methods."
+  },
+  {
+    "topic": "time complexity",
+    "tip": "Count how operations grow as input size increases, then express the trend with Big-O notation."
+  },
+  {
+    "topic": "stack",
+    "tip": "Practise push and pop operations and track the element currently at the top."
+  },
+  {
+    "topic": "queue",
+    "tip": "Simulate enqueue and dequeue operations and track the front and rear positions."
+  },
+  {
+    "topic": "PCA",
+    "tip": "Standardize features first, then interpret principal components as directions that capture variance."
+  },
+  {
+    "topic": "classification",
+    "tip": "Review the confusion matrix and calculate precision, recall, and accuracy."
+  },
+  {
+    "topic": "clustering",
+    "tip": "Plot the data when possible and compare assignments with the distance or similarity rule."
+  }
+]
